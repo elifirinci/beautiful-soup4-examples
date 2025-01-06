@@ -12,5 +12,5 @@ for i in range(1,10):
     time.sleep(random.randint(3,8))
      for foto in kadın:
          print(foto)
-
+#user agent network->user agent
 
